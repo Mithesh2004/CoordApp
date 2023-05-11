@@ -19,14 +19,21 @@ html {
     border-radius: 5px;
     border-color: white;
     background-color: ghostwhite;
+    width: 10em;
+    height: 2em;
+    font-size: 20px;
+
 }
 
 #label {
     font-size: 50px;
     font-weight: bold;
+    font-size: 70px;
 }
 
 #temperatureContainer {
     font-weight: bold;
     margin-top: 40px;
+    font-size: 30px;
+    margin: auto;
 }
